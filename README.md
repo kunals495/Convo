@@ -47,12 +47,9 @@ Screenshot Preview
 The following is a preview of how the final interface will look upon project completion:
 
 ![Image](https://github.com/user-attachments/assets/18fd3c82-99dd-48a9-9508-713642f63819)
-
 ![Image](https://github.com/user-attachments/assets/71e8902a-de25-4fa6-a9a6-44e8af2371c1)
 ![image](https://github.com/user-attachments/assets/1d117447-7eeb-4f6d-b0b3-bda9716940c7)
 ![image](https://github.com/user-attachments/assets/9068e7b0-4c7a-4f4b-bae1-d3ff2542637d)
-
-
 ![image](https://github.com/user-attachments/assets/bdd310be-c765-4ca2-a627-4232ab6e477c)
 
 
