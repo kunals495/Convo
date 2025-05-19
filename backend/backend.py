@@ -12,8 +12,6 @@ from langchain_community.vectorstores import FAISS
 from langchain.chains import RetrievalQAWithSourcesChain
 from langchain_community.document_loaders import UnstructuredURLLoader
 
-# 🔹 Hardcoded Google API Key (⚠️ NOT SECURE for production)
-GOOGLE_API_KEY = ""
 
 # Set API key for Google Gemini
 os.environ["GOOGLE_API_KEY"] = GOOGLE_API_KEY
